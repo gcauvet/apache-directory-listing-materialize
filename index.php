@@ -13,6 +13,7 @@
 			.alignLeft {text-align: left;}
 			.floatRight {float: right;}
 			th, td {text-align: center;}
+			table {margin-bottom : 150px;}
 		</style>
     </head>
 
